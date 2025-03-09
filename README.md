@@ -115,7 +115,7 @@ Enable automatic dark/light mode switching based on OS mode. Requires `window.au
 
 *boolean, default is false*
 
-#### vscode_vibrancy.preferedDarkTheme / vscode_vibrancy.preferedLightTheme
+#### vscode_vibrancy.preferredDarkTheme / vscode_vibrancy.preferedLightTheme
 
 Select which themes to use for light and dark modes, they will be used instead of the main Vibrancy theme selected.
 
@@ -124,9 +124,9 @@ Select which themes to use for light and dark modes, they will be used instead o
 Select Vibrancy theme:
 
 * Default Dark
-* Dark (Only Subbar)
+* Dark (Only Sub-bar)
 * Default Light
-* Light (Only Subbar)
+* Light (Only Sub-bar)
 * Noir et blanc
 * Tokyo Night Storm
 * Tokyo Night Storm (Outer)
@@ -137,10 +137,10 @@ Select Vibrancy theme:
 | Theme | Screenshot |
 | ---- | ---- |
 | Default Dark | ![](./theme-default.jpg) |
-| Dark (Only Subbar) | ![](./theme-subbar.jpg) |
+| Dark (Only Sub-bar) | ![](./theme-Sub-bar.jpg) |
 | Noir et blanc | ![](./theme-noir-et-blanc.jpg) |
 | Tokyo Night Storm | ![](./theme-tokyo-night-storm.png) |
-| Tokyo Night Storm (Only Subbar) | ![](./theme-tokyo-night-storm-outer.png) |
+| Tokyo Night Storm (Only Sub-bar) | ![](./theme-tokyo-night-storm-outer.png) |
 | Solarized Dark+ (with theme: [Solarized](https://marketplace.visualstudio.com/items?itemName=ryanolsonx.solarized)) | ![](./theme-solarized-dark%2B.png)
 | Catppuccin Mocha | ![](./theme-catppuccin-mocha.png) |
 | GitHub Dark Default | ![](./theme-github-dark-default.png) |
